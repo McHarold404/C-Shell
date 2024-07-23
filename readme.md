@@ -1,8 +1,12 @@
-A Shell made in C
+## A Shell made in C
+
+### Run and Build
 To start the shell type "make" without the quotes and then "./main" without quotes.
 Exit Command to end shell : exit_s
 Caler function is used to call functions which are given as arguments.
 
+
+### Functionality 
 Commands
 1.ls [<dir>,-la] - To list out all the directories
 2.cd -Changes directories
