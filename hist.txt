@@ -1,0 +1,20 @@
+cd mnt
+ls
+cd /
+ls
+cd home
+ls
+ls .
+cd folder
+ls .
+cd ..
+ls .
+ls ~
+ls /
+ls ~
+ls /
+ls ~
+
+history 5
+
+history 
